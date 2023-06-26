@@ -25,7 +25,7 @@ Hour of the Day: 2:00 am to 5:00 am, this might be an opportunity for maintenanc
 
 
 
-The rider type and bike type were analyzed alone with the total and average ride time.  Most riders are members at 66% of the rides and most bike types used are the classic bike at 70%.  
+The rider type and bike type were analyzed along with the total and average ride time.  Most riders are members at 66% of the rides and most bike types used are the classic bike at 70%.  
 
 <img width="1078" alt="image" src="https://github.com/Gavin-Toole/Module_18_Tableau_Citibike/assets/121550462/3a436bf6-56b1-42c4-9aec-d8b72f422b07">
 

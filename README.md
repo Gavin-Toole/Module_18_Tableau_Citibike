@@ -8,6 +8,9 @@ https://public.tableau.com/app/profile/gavin.toole/viz/Module_18_Challenge_Citib
 
 A map is provided with 2018 population data underlying the Starting location of rides.  The size and colour of the points are based on the number of riders and can be filtered by month and hour.
 
+<img width="1622" alt="image" src="https://github.com/Gavin-Toole/Module_18_Tableau_Citibike/assets/121550462/de25792a-2a0c-44a3-abc9-ec85283ead60">
+
+
 A comparison of the popular starting times was performed based on months, day of the week, day of the month and hour.  The most popular times were:
 Months: June to October
 Day of Week: Wednesday to Saturday

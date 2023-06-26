@@ -17,18 +17,21 @@ There were a couple unpopular days of the month and hours:
 Day of Month: the 31st was the most unpopular day like due to not all months having 31 days
 Hour of the Day: 2:00 am to 5:00 am, this might be an opportunity for maintenance or system upgrades
 
+<img width="1506" alt="image" src="https://github.com/Gavin-Toole/Module_18_Tableau_Citibike/assets/121550462/8c4a59bb-49f5-479c-9b2e-24572b6a8222">
 
 
 
 
 The rider type and bike type were analyzed alone with the total and average ride time.  Most riders are members at 66% of the rides and most bike types used are the classic bike at 70%.  
 
+<img width="1078" alt="image" src="https://github.com/Gavin-Toole/Module_18_Tableau_Citibike/assets/121550462/3a436bf6-56b1-42c4-9aec-d8b72f422b07">
 
 
 
 
 The docked bikes on average have a higher average ride time compared to both the classic and electric bikes.  Of note is the docked bike had an average ride time in December of 336 minutes compare to ~20 minutes for the classic and electric bike.  A further analysis of the data would be required to determine if this is just an anomaly in the data.
 
+<img width="886" alt="image" src="https://github.com/Gavin-Toole/Module_18_Tableau_Citibike/assets/121550462/3cbcc0c7-7ce1-4066-9e82-537072baa67e">
 
 
 
